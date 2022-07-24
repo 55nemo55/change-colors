@@ -1,2 +1,2 @@
 # change-colors
-hello this is my firt experience in github.
+hello this is my first experience in github.
